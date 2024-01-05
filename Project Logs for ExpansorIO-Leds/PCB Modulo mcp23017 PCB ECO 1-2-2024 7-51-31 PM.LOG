@@ -1,0 +1,12 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Pin To Net: NetName=GND Pin=IO1-6
+Added Pin To Net: NetName=GND Pin=IO1-8
+Added Pin To Net: NetName=GND Pin=IO1-9
+Added Pin To Net: NetName=GND Pin=IO1-15
+Added Pin To Net: NetName=GND Pin=IO1-16
+Added Pin To Net: NetName=VCC Pin=IO1-5
+Added Pin To Net: NetName=VCC Pin=IO1-14
+Added Net: Name=VCC

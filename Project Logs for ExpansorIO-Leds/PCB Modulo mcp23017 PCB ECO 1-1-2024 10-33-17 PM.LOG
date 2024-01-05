@@ -1,0 +1,7 @@
+Added Component: Designator=IO1(MCP23017-SOIC)
+Added Pin To Net: NetName=GND Pin=IO1-8
+Added Pin To Net: NetName=GND Pin=IO1-9
+Added Pin To Net: NetName=GND Pin=IO1-15
+Added Pin To Net: NetName=GND Pin=IO1-16
+Added Net: Name=GND
+Added Class: Name=Esquematico

@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=IO1-8 Old Name=SCK New Designator =SCK New Name=8
+Change Pin Designator/Name:  Old Designator=IO1-9 Old Name=SDA New Designator =SDA New Name=9
+Change Pin Designator/Name:  Old Designator=IO1-15 Old Name=INTB New Designator =INTB New Name=15
+Change Pin Designator/Name:  Old Designator=IO1-16 Old Name=INTA New Designator =INTA New Name=16
