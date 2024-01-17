@@ -1,0 +1,8 @@
+Add Pin To Net: Unknown Pin: Pin IO1-12
+Add Pin To Net: Unknown Pin: Pin IO1-13
+Added Pin To Net: NetName=VCC Pin=IO1-9
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=xGND Pin=IO1-10
+Added Pin To Net: NetName=xGND Pin=J1-1
+Added Net: Name=xGND

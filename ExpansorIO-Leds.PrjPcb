@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DMXHZVCZ
 
 [Configuration1]
 Name=Sources
@@ -1128,23 +1128,17 @@ ComponentSymbolReference0=Header Male THT 1x15
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=MCP23017-SOIC.SchLib
-ComponentDesignItemID1=MCP23017
-ComponentSymbolReference1=MCP23017
+ComponentLibraryIdentifier1=MIS LEDS.SchLib
+ComponentDesignItemID1=LED_SMD_0402_YLW
+ComponentSymbolReference1=LED_SMD_0402_YLW
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=MIS LEDS.SchLib
-ComponentDesignItemID2=LED_SMD_0402_YLW
-ComponentSymbolReference2=LED_SMD_0402_YLW
+ComponentLibraryIdentifier2=SMD RESISTORS.IntLib
+ComponentDesignItemID2=RES_SMD
+ComponentSymbolReference2=RES_SMD
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=SMD RESISTORS.IntLib
-ComponentDesignItemID3=RES_SMD
-ComponentSymbolReference3=RES_SMD
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1164,30 +1158,26 @@ ParameterName1=Comment
 ParameterUpdate1=1
 ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=DESC
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=DESC
+ParameterName5=DIST#
 ParameterUpdate5=1
-ParameterName6=Description
+ParameterName6=Library Reference
 ParameterUpdate6=1
-ParameterName7=DIST#
+ParameterName7=MANF
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=MANF_P#
 ParameterUpdate8=1
-ParameterName9=MANF
+ParameterName9=PARAM
 ParameterUpdate9=1
-ParameterName10=MANF_P#
+ParameterName10=PARAM2
 ParameterUpdate10=1
-ParameterName11=PARAM
+ParameterName11=PRICE
 ParameterUpdate11=1
-ParameterName12=PARAM2
+ParameterName12=VALUE
 ParameterUpdate12=1
-ParameterName13=PRICE
-ParameterUpdate13=1
-ParameterName14=VALUE
-ParameterUpdate14=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1200,35 +1190,67 @@ ModelType2=PCBLIB
 ModelName2=LED0402YLW
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=MCP23017-SOIC
+ModelName3=R0402
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=R0402
+ModelName4=R0603
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=R0603
+ModelName5=R0805
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=R0805
+ModelName6=R1206
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=R1206
+ModelName7=R1210
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=R1210
+ModelName8=R2010
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=R2010
+ModelName9=R2512
 ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=R2512
-ModelUpdate10=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Headers.IntLib
+ComponentDesignItemID0=Header Male THT 1x15
+ComponentSymbolReference0=Header Male THT 1x15
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=MCP23017-SOIC.SchLib
+ComponentDesignItemID1=MCP23017
+ComponentSymbolReference1=MCP23017
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=MIS LEDS.SchLib
+ComponentDesignItemID2=LED_SMD_0402_YLW
+ComponentSymbolReference2=LED_SMD_0402_YLW
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=SMD RESISTORS.IntLib
+ComponentDesignItemID3=RES_SMD
+ComponentSymbolReference3=RES_SMD
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+
+[NetInfos]
+Net1=NetName=NetIO?_12|NetColor=$00FF6EFF
+Net2=NetName=NetIO1_12|NetColor=$00FF6EFF
+Net3=NetName=NetIO1_13|NetColor=clYellow
+Net4=NetName=SCK|NetColor=$00FF6EFF
+Net5=NetName=SDA|NetColor=clYellow
+Net6=NetName=VCC|NetColor=$006E6EFF
+Net7=NetName=xGND|NetColor=$00FF6E6E
+Net8=NetName=xSCK|NetColor=$00FF6EFF
+Net9=NetName=xSDA|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

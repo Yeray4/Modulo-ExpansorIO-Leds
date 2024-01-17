@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetIO1_12 Pin=J1-4
+Added Net: Name=NetIO1_12
+Added Pin To Net: NetName=NetIO1_13 Pin=J1-3
+Added Net: Name=NetIO1_13

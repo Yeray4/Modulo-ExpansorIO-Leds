@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SCK Pin=IO1-12 SCK
+Removed Pin From Net: NetName=SDA Pin=IO1-13 SDA
+Add Pin To Net: Unknown Pin: Pin IO1-12
+Add Pin To Net: Unknown Pin: Pin IO1-13

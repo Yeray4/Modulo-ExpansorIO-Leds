@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=xSCK Pin=J1-3
+Added Net: Name=xSCK
+Added Pin To Net: NetName=xSDA Pin=J1-4
+Added Net: Name=xSDA

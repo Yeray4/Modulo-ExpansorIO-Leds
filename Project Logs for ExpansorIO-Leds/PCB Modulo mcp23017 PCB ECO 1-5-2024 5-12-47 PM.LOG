@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Add Pin To Net: Unknown Pin: Pin IO1-12
+Add Pin To Net: Unknown Pin: Pin IO1-13

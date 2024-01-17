@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Bit13 Pin=IO1-25
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Add Pin To Net: Unknown Pin: Pin IO1-12
+Add Pin To Net: Unknown Pin: Pin IO1-13
+Change Net Name : Old Net Name=A0 New Net Name=NetIO1_15
+Change Net Name : Old Net Name=A2 New Net Name=NetIO1_17
+Change Net Name : Old Net Name=INTA New Net Name=NetIO1_20
+Change Net Name : Old Net Name=INTB New Net Name=NetIO1_19
+Change Net Name : Old Net Name=RESET New Net Name=NetIO1_18
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=RGB(255, 110, 110)

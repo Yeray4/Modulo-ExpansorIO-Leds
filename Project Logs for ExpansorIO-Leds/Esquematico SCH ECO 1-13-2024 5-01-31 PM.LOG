@@ -1,0 +1,2 @@
+Remove Pin=IO1-12 From Net=xSCK
+Remove Pin=IO1-13 From Net=xSDA

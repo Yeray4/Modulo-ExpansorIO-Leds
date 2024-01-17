@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Bit13 Pin=IO1-25
+Add Pin To Net: Unknown Pin: Pin IO1-12
+Add Pin To Net: Unknown Pin: Pin IO1-13
+Change Net Name : Old Net Name=NetIO1_15 New Net Name=A0
+Change Net Name : Old Net Name=NetIO1_17 New Net Name=A2

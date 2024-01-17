@@ -1,0 +1,3 @@
+Remove Pin=IO1-12 From Net=xSCK
+Remove Pin=IO1-13 From Net=xSDA
+Change Net Color : Net Name= VCC Old Net Color=RGB(110, 255, 110) New Net Color=Default
